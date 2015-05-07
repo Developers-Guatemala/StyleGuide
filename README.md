@@ -9,3 +9,4 @@ Este repositorio contiene la guia de estilos, convenciones y mejores practicas d
 * La rama "master" (master branch) sera unicamente para codigo estable.
 * El desarrollo de nuevas caracteristicas (features) se hara en su respectiva rama.
 * Cada merge hacia la rama master, debe contar con al menos una revision por algun miembro que no sea el autor.
+* El mensaje de cada commit ```git commit -m "..."```, ser&aacute; en ingles.
